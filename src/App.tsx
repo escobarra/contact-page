@@ -13,7 +13,12 @@ function App() {
        <br/>
         <button onClick={() => location.href ="https://wa.me/5524992737930" }>
           <img className="button-logo" src='/src/assets/whats-logo.png'/>
-         Whatsapp 
+         Whatsapp - Valença
+        </button>
+        <br/>
+        <button onClick={() => location.href ="https://wa.me/553299539792" }>
+          <img className="button-logo" src='/src/assets/whats-logo.png'/>
+         Whatsapp - Juiz de Fora
         </button>
         <br/>
         <button onClick={() => location.href ="https://www.instagram.com/phoneaidbr/" }>
@@ -28,7 +33,12 @@ function App() {
         <br/>
         <button onClick={() => location.href = "http://maps.google.com/?q=Avenida Nilo Pecanha, 222 - Centro"}>
           <img className="button-logo" src='/src/assets/loc-logo.png'/>
-         Localização 
+         Localização - Valença
+        </button>
+        <br/>
+        <button onClick={() => location.href = "http://maps.google.com/?q=Av. Getúlio Vargas, 353 - Centro - Loja 126"}>
+          <img className="button-logo" src='/src/assets/loc-logo.png'/>
+         Localização - Juiz de Fora
         </button>
         <br/>
         <button onClick={() => location.href ="https://wa.me/5524992737930"}>
