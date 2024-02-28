@@ -31,7 +31,7 @@ function App() {
          Facebook 
         </button>
         <br/>
-        <button onClick={() => location.href = "http://maps.google.com/?q=Avenida Nilo Pecanha, 222 - Centro"}>
+        <button onClick={() => location.href = "https://maps.app.goo.gl/Sk19tEoat4G7wiDB6"}>
           <img className="button-logo" src='/src/assets/loc-logo.png'/>
          Localização - Valença
         </button>
